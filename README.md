@@ -48,6 +48,6 @@ I bridge the gap between end-user support and systems administration. I use GitH
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** alex.support@email.com
+* **LinkedIn:** [linkedin.com/in/glenn-jacobs-86a175172](www.linkedin.com/in/glenn-jacobs-86a175172)
+* **Email:** jacobsglenn2@gmail.com
 * **Blog/Portfolio:** [alextech.dev](https://alextech.dev)
