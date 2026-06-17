@@ -4,7 +4,7 @@
 I bridge the gap between end-user support and systems administration. I use GitHub to version-control my deployment scripts, document my enterprise home lab, and automate repetitive IT tasks to save teams time and reduce human error.
 
 - 🔭 I’m currently working on: Automating patch management workflows via Python and API integrations.
-- 🌱 I’m currently learning: Terraform for Infrastructure as Code (IaC) and advanced AWS SysOps.
+- 🌱 I’m currently learning: Terraform for Infrastructure as Code (IaC)
 - ⚡ Fun fact: I once automated a password reset process that saved my service desk 15 hours a week.
 
 ---
@@ -15,7 +15,7 @@ I bridge the gap between end-user support and systems administration. I use GitH
 | :--- | :--- |
 | **Operating Systems** | Windows Server (2019/2022), Windows 10/11, Ubuntu Linux, macOS |
 | **Scripting & Automation** | PowerShell, Bash, Python |
-| **Cloud & Identity** | Microsoft 365, Azure AD / Entra ID, Active Directory, AWS (EC2/S3) |
+| **Cloud & Identity** | Microsoft 365, Azure AD / Entra ID, Active Directory |
 | **Networking & Security** | TCP/IP, DNS, DHCP, VPN, Firewalls (pfSense), MDM (Intune) |
 | **Tools & Hypervisors** | Git, Docker, Proxmox, Jira, Zendesk, VS Code |
 
