@@ -10,7 +10,7 @@
 I am a highly motivated IT & Support Engineer dedicated to maintaining robust infrastructure, managing systems administration, and solving complex technical challenges. Currently working at **FullOutput**, focusing on system reliability, networking performance, and PACS administration.
 
 * 🔭 **Currently working on:** Infrastructure optimization, PACS administration, and enterprise cloud solutions.
-* 🌱 **Currently learning:** Azure Administration (AZ-104), Entra ID, CompTIA N+ and Advanced Cloud Networking.
+* 🌱 **Currently learning:** Azure Administration (AZ-104), Entra ID, CompTIA N+, OCI Foundations Associate, and Advanced Cloud Networking.
 * ⚡ **Core Strengths:** L1, L2 Systems Support, Hardware & Network Troubleshooting, Client Escalations, SLA Adherence.
 
 ---
