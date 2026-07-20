@@ -1,53 +1,57 @@
-# Hi, I'm Glenn ! 👋 
+# Hi there, I'm Glenn Jacobs 👋
 
-### IT Support Specialist | Automation & Systems Enthusiast
-I bridge the gap between end-user support and systems administration. I use GitHub to version-control my deployment scripts, document my enterprise home lab, and automate repetitive IT tasks to save teams time and reduce human error.
-
-- 🔭 I’m currently working on: Automating patch management workflows via Python and API integrations.
-- 🌱 I’m currently learning: Terraform for Infrastructure as Code (IaC)
-- ⚡ Fun fact: I once automated a password reset process that saved my service desk 15 hours a week.
+**Information Technology and Support Engineer** | **PACS Administrator**  
+📍 *Somerset West, Western Cape, South Africa*
 
 ---
 
-## 🛠️ Tech Stack & IT Tools
+## 🚀 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Operating Systems** | Windows Server (2019/2022), Windows 10/11, Ubuntu Linux, macOS |
-| **Scripting & Automation** | PowerShell, Bash, Python |
-| **Cloud & Identity** | Microsoft 365, Azure AD / Entra ID, Active Directory |
-| **Networking & Security** | TCP/IP, DNS, DHCP, VPN, Firewalls (pfSense), MDM (Intune) |
-| **Tools & Hypervisors** | Git, Docker, Proxmox, Jira, Zendesk, VS Code |
+I am a highly motivated IT & Support Engineer dedicated to maintaining robust infrastructure, managing systems administration, and solving complex technical challenges. Currently working at **FullOutput**, focusing on system reliability, networking performance, and PACS administration.
+
+* 🔭 **Currently working on:** Infrastructure optimization, PACS administration, and enterprise cloud solutions.
+* 🌱 **Currently learning:** Azure Administration (AZ-104), Entra ID, CompTIA N+ and Advanced Cloud Networking.
+* ⚡ **Core Strengths:** L1, L2 Systems Support, Hardware & Network Troubleshooting, Client Escalations, SLA Adherence.
 
 ---
 
-## 📌 Pinned Projects & Repositories
+## 🛠 Tech Stack & Core Skills
 
-### 🛠️ [powershell-it-toolbox](https://github.com/yourusername/powershell-it-toolbox)
-*A collection of production-ready PowerShell scripts designed for Enterprise IT Administration.*
-* **What it does:** Automates bulk AD user creation from CSVs, audits inactive Azure AD accounts, and forces remote group policy updates.
-* **Tech used:** PowerShell, Active Directory Module, Microsoft Graph API.
+### **Operating Systems & Administration**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Office 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-### 🌐 [enterprise-homelab-infra](https://github.com/yourusername/enterprise-homelab-infra)
-*Documentation and configuration files for my bare-metal and cloud testing environments.*
-* **What it does:** Contains Docker Compose files for self-hosting local DNS (Pi-hole), an internal wiki, and network monitoring tools (Grafana/Prometheus) on a Proxmox server.
-* **Tech used:** Docker, Linux, YAML, Networking (VLANs, Subnetting).
-
-### 📚 [it-knowledge-base](https://github.com/yourusername/it-knowledge-base)
-*A centralized, Markdown-based wiki acting as an internal technical support KB.*
-* **What it does:** Features step-by-step guides for tier-2 troubleshooting, malware remediation, disaster recovery steps, and network topology diagrams.
-* **Tech used:** Markdown, GitHub Pages.
+### **Networking & Infrastructure**
+* **Routing & Switching:** Local Area Network (LAN), Access Points, Routers
+* **Systems Maintenance:** Hardware Repair, Computer Maintenance, Backup & Recovery Systems, Data Recovery
+* **Healthcare Tech:** Picture Archiving and Communication Systems (PACS)
 
 ---
 
-## 📈 GitHub Metrics
+## 💼 Experience Highlights
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+* **Information Technology & Support Engineer / PACS Administrator** @ *FullOutput* *(Sept 2025 – Present)*
+  * Administering PACS architecture and delivering dedicated IT support.
+  * Optimizing computing and networking client environments.
+
+* **Field Engineer** @ *Business Connexion (BCX)* *(Aug 2021 – Aug 2025)*
+  * Resolved complex technical incidents adhering to strict SLA targets.
+  * Delivered 2nd-line IT support, POS systems maintenance, and large-scale deployment projects.
+
+---
+
+## 📜 Certifications & Education
+
+* 🎓 **Information Technology and Computer Science L4** – Boland College
+* 📜 **CompTIA Network+:** Routing & Switching Technologies
+* 📜 **CompTIA Network+:** Modern Network Environments
+* 📜 **CompTIA IT Fundamentals:** Internet, Storage, & Computer Systems
 
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/glenn-jacobs-86a175172](www.linkedin.com/in/glenn-jacobs-86a175172)
-* **Email:** jacobsglenn2@gmail.com
-* **Blog/Portfolio:** [alextech.dev](https://alextech.dev)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobsglenn2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobsglenn2@gmail.com)
